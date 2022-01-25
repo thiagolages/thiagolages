@@ -21,12 +21,12 @@
 <div align="center">
   <a href="https://github.com/thiagolages">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolages&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolages&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolages&layout=compact&langs_count=7&include_all_commits=true&count_private=true"/>
 </div>
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
  
- # Languages
+ ## 📋Languages
  
  <!--  The following works in HTML but not in Markdown so it's commented out  -->
   
@@ -102,28 +102,28 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
 
 ### [🚁Robotics] Development of an Autonomous Delivery Drone
 
-  - #### **[Paper published at Journal   JCAE 2020](https://link.springer.com/article/10.1007/s40313-021-00828-4)**
-  - #### **[Paper published at Conference CBA 2020](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1701)**
+  - #### **[Paper published at Journal   JCAE (2021)](https://link.springer.com/article/10.1007/s40313-021-00828-4) (English)**
+  - #### **[Paper published at Conference CBA (2020)](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1701) (Portuguese)**
 
 <!-- Again, the following doesn't work in Markdown, so it's commented out   -->  
 
 <!-- <div style="display:flex">
 <div style="margin:10px;">
-  <h3>Main Presentation</h3>
+  <h3>Main Presentation (Portuguese)</h3>
     <a href="https://www.youtube.com/watch?v=kMWplRJgxjQ">
-    <img src="https://user-images.githubusercontent.com/22358397/150851451-19c25dd4-8886-4c98-8078-52be6a585530.png" title="experimental-results" alt="experimental-results" width="100"/>
+    <img src="https://user-images.githubusercontent.com/22358397/150851451-19c25dd4-8886-4c98-8078-52be6a585530.png" title="experimental-results" alt="experimental-results" width="300"/>
     </a>
   </div>
   <div style="margin:10px;">
   <h3>Experimental Results</h3>
     <a href="https://www.youtube.com/watch?v=nv0XCpBu_S8">
-    <img src="https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png" title="experimental-results" alt="experimental-results" width="100"/>
+    <img src="https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png" title="experimental-results" alt="experimental-results" width="325"/>
     </a>
   </div>
   <div style="margin:10px;">
   <h3>Simulation Results</h3>
     <a href="https://www.youtube.com/watch?v=nel3MZ6YLWA">
-    <img src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="100"/>
+    <img src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="300"/>
     </a>
   </div>  
 </div>
@@ -132,9 +132,9 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
 <!--  So let's make something that works in Markdown  -->
   
 <!-- beginning of horizontally aligned videos (drones) -->
-  
+<!--   
 <div style="display:flex">
-  <h3 align="left">Main Presentation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experimental Results&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simulation Results</h3>
+  <h3 align="left">Main Presentation (Portuguese)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experimental Results&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simulation Results</h3>
   <a href="https://www.youtube.com/watch?v=kMWplRJgxjQ">
     <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851451-19c25dd4-8886-4c98-8078-52be6a585530.png" title="experimental-results" alt="experimental-results" width="300"/>
    </a>
@@ -144,10 +144,38 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
     <a href="https://www.youtube.com/watch?v=nel3MZ6YLWA">
       <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="300"/>
     </a>
-</div>
+</div> -->
    
 <!-- end of horizontally aligned videos (drones) -->
   
+<!--  beginning of sequential videos  -->
+  
+  ### Main Presentation (Portuguese)
+<div style="float:left; margin:10px;border:2px solid black">
+  <a href="https://www.youtube.com/watch?v=kMWplRJgxjQ">
+  <img src="https://user-images.githubusercontent.com/22358397/150999263-74a71fee-72bd-4c8d-b680-fca50824464a.png" title="experimental-results" alt="experimental-results" width="400"/>
+  </a>
+</div>
+  
+### Experimental Results
+  
+<!-- [![image](https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png)](https://www.youtube.com/watch?v=nv0XCpBu_S8) -->
+<div style="float:left; margin:10px;border:2px solid black">
+  <a href="https://www.youtube.com/watch?v=nv0XCpBu_S8">
+  <img src="https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png" title="experimental-results" alt="experimental-results" width="400"/>
+  </a>
+</div>
+  
+### Simulation Results
+  
+<!-- [![image](https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png)](https://www.youtube.com/watch?v=nel3MZ6YLWA) -->
+<div style="float:left; margin:10px;border:2px solid black">
+  <a href="https://www.youtube.com/watch?v=nel3MZ6YLWA">
+  <img src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="400"/>
+  </a>
+</div>
+  
+<!--  end of sequential videos  -->
   
   
 ---  
@@ -157,7 +185,7 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
 <!--  beginning of horizontally aligned videos (manipulators)  -->
   
 <!--   <div style="display:flex">
-    <h3>#1 - Robot Assembly Task&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#2 - Rubbish Collector&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#3 - Visual Servoing</h3>
+    <h3>#1 - Robot Assembly Task (English)k&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#2 - Rubbish Collector (English)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#3 - Visual Servoing (English)</h3>
     <a href="https://www.youtube.com/watch?v=lrr2d_io8Yc">
       <img src="https://user-images.githubusercontent.com/22358397/150844800-b65e7451-b079-4b71-99c5-c226cbb8d26d.png" title="experimental-results" alt="experimental-results" height="270"/>
     </a>
@@ -173,7 +201,7 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
   
 ### [🤖Robotics] Working with Robotic Manipulators
 
-<h3>#1 - Robot Assembly Task using 2 Manipulators</h3>
+<h3>#1 - Robot Assembly Task (English)</h3>
   
 - GitHub repo: [link](https://github.com/thiagolages/Robotics-41013/tree/master/assignment1)
 - Video: [link](https://www.youtube.com/watch?v=lrr2d_io8Yc) (or click the image below)
@@ -184,7 +212,7 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
 
   ---
   
-<h3>#2 - Rubbish Collector (Dobot + Turtlebot)</h3>
+<h3>#2 - Rubbish Collector (English)</h3>
   
 - GitHub repo: [link](https://github.com/thiagolages/Robotics-41013/tree/master/assignment3)
 - Video: [link](https://youtu.be/cC__Lanfi90) (or click the image below)
@@ -199,32 +227,32 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
   ---
   
   
-<h3>#3 - Visual Servoing</h3>
+<h3>#3 - Visual Servoing (English)</h3>
   
 - GitHub repo: [link](https://github.com/thiagolages/rubbish-collector)
 - Video: [link](https://youtu.be/srst6tM4fFA) (or click the image below)
 
 <a href="https://youtu.be/srst6tM4fFA">
-<img src="https://user-images.githubusercontent.com/22358397/150845227-647836a4-b015-41bd-a53f-f4eac3c14b2d.png" title="experimental-results" alt="experimental-results" width="400"/>
+<img src="https://user-images.githubusercontent.com/22358397/150999737-aa7b5872-a62c-40c9-8103-46fc6e6a628d.png" title="experimental-results" alt="experimental-results" width="400"/>
 </a>
 
   
   ---
+### [🤖Robotics] Fetch Robot Grasper
+  
+- GitHub Repo:  [link](https://github.com/thiagolages/fetch-robot-grasper)
+- Simple Demo of the Fetch Robot n the video below. Not the actual task performed.
+  
+https://user-images.githubusercontent.com/22358397/151033793-9f859eb2-afaf-47da-a2fa-ef8a4a18c865.mp4
 
   
-<!-- https://github.com/thiagolages/rubbish-collector
+---
 
-https://github.com/thiagolages/mini-golf-js
-
-https://github.com/thiagolages/forwardbot
-
- -->
-
-
-
-## [📸Computer Vision/🧠Machine Learning] 
-
-### Visual Odometry - Final Presentation - Keypoint Selection Based on Best Matches for Monocular VO
+  
+  
+### [📸Computer Vision and 🧠Machine Learning] 
+  
+### Visual Odometry - Keypoint Selection Based on Best Matches for Monocular VO (Portuguese)
 <a href="https://www.youtube.com/watch?v=88PcPvg203g">
 <img src="https://user-images.githubusercontent.com/22358397/150851631-1f109642-848e-4bad-8eb1-429dbdebf5a3.png" alt="drawing"
      width="600"/>
@@ -234,26 +262,53 @@ https://github.com/thiagolages/forwardbot
 
 - GitHub Repo:  [link](https://github.com/thiagolages/fp-clf)
 
-### Real-Time Face Recognition
+### Real-Time Face Recognition (English)
 - Final Presentation Video: [link](https://www.youtube.com/watch?v=0pkoKwanUqU) (or click the image below)
   
 <a href="https://www.youtube.com/watch?v=0pkoKwanUqU">
 <img src="https://user-images.githubusercontent.com/22358397/150987135-75b3db82-41f2-4746-b441-668e34428172.png" title="real-time-face-recognition-video" alt="real-time-face-recognition-video" width="600"/>
 </a>
   
-## [Hobbies]
+## [🎡Hobbies]
 
-### Photogrammetry Scanner
+### Game: Mini Golf (<img align="center" title="JavaScript" alt="JavaScript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">Javascript)
+    
+  - GitHub Repo:  [link](https://github.com/thiagolages/mini-golf-js)
+  
+### Photogrammetry Scanner (✒️3D Printing/🛠️Development of the hardware)
+  
 - GitHub repo: [link](https://github.com/thiagolages/photogrammetry-scanner)
 - Video: [link](https://www.youtube.com/watch?v=YgXV4LTF02c) (or click the image below)
   
 [![Watch the video](https://github.com/thiagolages/photogrammetry-scanner/blob/master/black-panther.gif)](https://www.youtube.com/watch?v=YgXV4LTF02c)
 
 ### Augmented Reality
+  
 - GitHub Repo:  [link](https://github.com/thiagolages/teste-ARjs)
 
-## [Miscellaneous]
+## [🔩Miscellaneous]
+  
+### Load Tensorflow models trained in Keras/Python using C
+  
+  - GitHub Repo:  [link](https://github.com/thiagolages/tensorflow_c)
 
-### Fuzzy Systems
+### Suppress image reflection using Python
+
+- GitHub Repo:  [link](https://github.com/thiagolages/reflectSuppress-python)
+  
+### Intro to Databases (SQL, Python)
+  
+  - GitHub Repo:  [link](https://github.com/thiagolages/intro-to-databases)
+  
+### Fuzzy Systems (MATLAB)
 
 - GitHub Repo:  [link](https://github.com/thiagolages/Fuzzy-Systems)
+  
+  
+<!-- https://github.com/thiagolages/rubbish-collector
+
+https://github.com/thiagolages/mini-golf-js
+
+https://github.com/thiagolages/forwardbot
+
+ -->

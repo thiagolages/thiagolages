@@ -8,9 +8,17 @@
 
 <div align="center">
 <!--   <a href="https://github.com/thiagolages"> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolages&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolages&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolages&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
+<div align="center">
+<!--   <a href="https://github.com/thiagolages"> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolages&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolages&layout=compact"/>
+</div>
+
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
  
  # Languages
 
@@ -151,7 +159,7 @@ https://github.com/thiagolages/forwardbot
 
 ### Fingerprint Classification using CNN's
 
-- GitHub Repo: https://github.com/thiagolages/fp-clf
+- GitHub Repo:  [link](https://github.com/thiagolages/fp-clf)
 
 ## [Hobbies]
 
@@ -161,10 +169,10 @@ https://github.com/thiagolages/forwardbot
 [![Watch the video](https://github.com/thiagolages/photogrammetry-scanner/blob/master/black-panther.gif)](https://www.youtube.com/watch?v=YgXV4LTF02c)
 
 ### Augmented Reality
-https://github.com/thiagolages/teste-ARjs
+- GitHub Repo:  [link](https://github.com/thiagolages/teste-ARjs)
 
 ## [Miscellaneous]
 
 ### Fuzzy Systems
 
-https://github.com/thiagolages/Fuzzy-Systems
+- GitHub Repo:  [link](https://github.com/thiagolages/Fuzzy-Systems)

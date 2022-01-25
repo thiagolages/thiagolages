@@ -136,13 +136,13 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
 <div style="display:flex">
   <h3 align="left">Main Presentation (Portuguese)&nbsp;&nbsp;&nbsp;&nbsp;Experimental Results&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simulation Results</h3>
   <a href="https://www.youtube.com/watch?v=kMWplRJgxjQ">
-    <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851451-19c25dd4-8886-4c98-8078-52be6a585530.png" title="experimental-results" alt="experimental-results" width="280"/>
+    <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851451-19c25dd4-8886-4c98-8078-52be6a585530.png" title="experimental-results" alt="experimental-results" width="33%" height="auto"/>
    </a>
    <a href="https://www.youtube.com/watch?v=nv0XCpBu_S8">
-      <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png" title="experimental-results" alt="experimental-results" width="310"/>
+      <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png" title="experimental-results" alt="experimental-results" width="33%" height="auto"/>
     </a>
     <a href="https://www.youtube.com/watch?v=nel3MZ6YLWA">
-      <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="280"/>
+      <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="33%" height="auto"/>
     </a>
 </div>
    

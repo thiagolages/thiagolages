@@ -153,7 +153,7 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
 <!--   ### Main Presentation (Portuguese)
 <div style="float:left; margin:10px;border:2px solid black">
   <a href="https://www.youtube.com/watch?v=kMWplRJgxjQ">
-  <img src="https://user-images.githubusercontent.com/22358397/150999263-74a71fee-72bd-4c8d-b680-fca50824464a.png" title="experimental-results" alt="experimental-results" width="400"/>
+  <img src="https://user-images.githubusercontent.com/22358397/150999263-74a71fee-72bd-4c8d-b680-fca50824464a.png" title="experimental-results" alt="experimental-results" width="300"/>
   </a>
 </div>
   
@@ -161,7 +161,7 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
   
 <div style="float:left; margin:10px;border:2px solid black">
   <a href="https://www.youtube.com/watch?v=nv0XCpBu_S8">
-  <img src="https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png" title="experimental-results" alt="experimental-results" width="400"/>
+  <img src="https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png" title="experimental-results" alt="experimental-results" width="300"/>
   </a>
 </div>
   
@@ -169,7 +169,7 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
   
 <div style="float:left; margin:10px;border:2px solid black">
   <a href="https://www.youtube.com/watch?v=nel3MZ6YLWA">
-  <img src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="400"/>
+  <img src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="300"/>
   </a>
 </div> -->
   

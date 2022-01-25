@@ -132,9 +132,9 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
 <!--  So let's make something that works in Markdown  -->
   
 <!-- beginning of horizontally aligned videos (drones) -->
-<!--   
+  
 <div style="display:flex">
-  <h3 align="left">Main Presentation (Portuguese)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experimental Results&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simulation Results</h3>
+  <h3 align="left">Main Presentation (Portuguese)&nbsp;&nbsp;&nbsp;&nbsp;Experimental Results&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simulation Results</h3>
   <a href="https://www.youtube.com/watch?v=kMWplRJgxjQ">
     <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851451-19c25dd4-8886-4c98-8078-52be6a585530.png" title="experimental-results" alt="experimental-results" width="300"/>
    </a>
@@ -144,13 +144,13 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
     <a href="https://www.youtube.com/watch?v=nel3MZ6YLWA">
       <img id="img-experimental-results" src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="300"/>
     </a>
-</div> -->
+</div>
    
 <!-- end of horizontally aligned videos (drones) -->
   
-<!--  beginning of sequential videos  -->
+<!--  beginning of vertically aligned videos (drones)  -->
   
-  ### Main Presentation (Portuguese)
+<!--   ### Main Presentation (Portuguese)
 <div style="float:left; margin:10px;border:2px solid black">
   <a href="https://www.youtube.com/watch?v=kMWplRJgxjQ">
   <img src="https://user-images.githubusercontent.com/22358397/150999263-74a71fee-72bd-4c8d-b680-fca50824464a.png" title="experimental-results" alt="experimental-results" width="400"/>
@@ -159,7 +159,6 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
   
 ### Experimental Results
   
-<!-- [![image](https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png)](https://www.youtube.com/watch?v=nv0XCpBu_S8) -->
 <div style="float:left; margin:10px;border:2px solid black">
   <a href="https://www.youtube.com/watch?v=nv0XCpBu_S8">
   <img src="https://user-images.githubusercontent.com/22358397/150851144-f99f6c91-5e5b-4ccc-806a-cda3ec38e159.png" title="experimental-results" alt="experimental-results" width="400"/>
@@ -168,14 +167,13 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
   
 ### Simulation Results
   
-<!-- [![image](https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png)](https://www.youtube.com/watch?v=nel3MZ6YLWA) -->
 <div style="float:left; margin:10px;border:2px solid black">
   <a href="https://www.youtube.com/watch?v=nel3MZ6YLWA">
   <img src="https://user-images.githubusercontent.com/22358397/150851354-3cb78701-c9fd-4895-84ab-ef7bd4514f30.png" title="simulation-results" alt="simulation-results" width="400"/>
   </a>
-</div>
+</div> -->
   
-<!--  end of sequential videos  -->
+<!--  end of vertically aligned videos (drones)  -->
   
   
 ---  

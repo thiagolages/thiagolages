@@ -33,9 +33,9 @@
 <!--   <div style="display:flex">
     <div style="border:1px solid red">
         <h4>Currently working</h4>
-        <img align="center" title="Python" alt="Python"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img align="center" title="C" alt="C"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-        <img align="center" title="C++" alt="C++"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+        <img align="center" title="Python"  alt="Python"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" title="C"       alt="C"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+        <img align="center" title="C++"     alt="C++"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     </div>
     <div style="border:1px solid red">
         <h4>Actively Learning</h4>
@@ -98,8 +98,8 @@
   <a href="https://www.linkedin.com/in/thiago-lages/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiagolagesrocha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCAUeFXeA5834eJlX-ilY8Vg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://app.rocketseat.com.br/me/thiagolages"><img width="110" height="auto" src="https://user-images.githubusercontent.com/22358397/151169408-ba99e309-7db0-40c4-b2ea-4675cdb9e65e.png"></a>
- 
+  <a href="https://app.rocketseat.com.br/me/thiagolages"><img width="110" height="auto" src="https://user-images.githubusercontent.com/22358397/151171836-74f61bcd-58bf-4152-b5b1-25e60cd27383.png"></a>
+
   ![Snake animation](https://github.com/thiagolages/thiagolages/blob/output/github-contribution-grid-snake.svg)
   
 </div>

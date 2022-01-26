@@ -88,6 +88,7 @@
   <a href="https://www.linkedin.com/in/thiago-lages/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiagolagesrocha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCAUeFXeA5834eJlX-ilY8Vg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://app.rocketseat.com.br/me/thiagolages"><img width="110" height="auto" src="https://user-images.githubusercontent.com/22358397/151169408-ba99e309-7db0-40c4-b2ea-4675cdb9e65e.png"></a>
  
   ![Snake animation](https://github.com/thiagolages/thiagolages/blob/output/github-contribution-grid-snake.svg)
   

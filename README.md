@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning JavaScript with HTML/CSS
 - 📫 How to reach me: via [email](thiagolagesrocha@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thiago-lages/) (links also below)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
 
 <!-- Dark Theme (commented out) -->
 

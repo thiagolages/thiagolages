@@ -106,12 +106,8 @@
 
 # <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> Projects
 
-<!-- https://github.com/thiagolages/Robotics-41013
 
-https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
-
-
-### [🚁Robotics] Development of an Autonomous Delivery Drone
+### [🚁Robotics - Drones] Development of an Autonomous Delivery Drone
 
   - #### **[Paper published at Journal   JCAE (2021)](https://link.springer.com/article/10.1007/s40313-021-00828-4) (English)**
   - #### **[Paper published at Conference CBA (2020)](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1701) (Portuguese)**
@@ -190,6 +186,23 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
 ---  
   
   
+### [🚜Robotics - UGV] Unmanned Gound Vehicle to investigate confined environments, like caves
+
+  - #### **[Paper published at LARS (2021)](https://ieeexplore.ieee.org/document/9307018) (English)**
+<div>
+  <h3 align="center">Paper at IEEE Xplore</h3>
+</div>
+  
+  <div align="center">
+    <a href="https://ieeexplore.ieee.org/document/9307018">
+    <img src="https://user-images.githubusercontent.com/22358397/151984739-1938bb2d-04ad-4c14-9bbf-b868a51b266c.png" title="espeleo-robot" alt="espeleo-robot" width="338"/>
+      <img src="https://user-images.githubusercontent.com/22358397/151986154-a87b2c23-ae6f-4b46-b726-9b20b7a98f9f.png" title="espeleo-corridor" alt="espeleo-corridor" width="270"/>
+      <img src="https://user-images.githubusercontent.com/22358397/151986188-889fd6cb-408d-4145-9588-f97fa83186e6.png" title="espeleo-cave" alt="espeleo-cave" width="270"/>
+    </a>
+  </div>  
+  
+---
+  
   
 <!--  beginning of horizontally aligned videos (manipulators)  -->
   
@@ -208,7 +221,7 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
    -->
 <!--  end of horizontally aligned videos (manipulators)  -->
   
-### [🤖Robotics] Working with Robotic Manipulators
+### [🤖Robotics - Manipulators]
 
 <h3>#1 - Robot Assembly Task (English)</h3>
   
@@ -247,7 +260,7 @@ https://github.com/thiagolages/Robotics-41013/tree/master/assignment1 -->
 
   
   ---
-### [🤖Robotics] Fetch Robot Grasper
+### [🦾Robotics - Manipulation/Perception] Fetch Robot Grasper
   
 - GitHub Repo:  [link](https://github.com/thiagolages/fetch-robot-grasper)
 - Simple Demo of the Fetch Robot n the video below. Not the actual task performed.
@@ -258,7 +271,6 @@ https://user-images.githubusercontent.com/22358397/151033793-9f859eb2-afaf-47da-
 ---
 
   
-  
 ### [📸Computer Vision and 🧠Machine Learning] 
   
 ### Visual Odometry - Keypoint Selection Based on Best Matches for Monocular VO (Portuguese)
@@ -266,10 +278,6 @@ https://user-images.githubusercontent.com/22358397/151033793-9f859eb2-afaf-47da-
 <img src="https://user-images.githubusercontent.com/22358397/150851631-1f109642-848e-4bad-8eb1-429dbdebf5a3.png" alt="drawing"
      width="600"/>
 </a>
-
-### Fingerprint Classification using CNN's
-
-- GitHub Repo:  [link](https://github.com/thiagolages/fp-clf)
 
 ### Real-Time Face Recognition (English)
 - Final Presentation Video: [link](https://www.youtube.com/watch?v=0pkoKwanUqU) (or click the image below)
@@ -283,6 +291,14 @@ https://user-images.githubusercontent.com/22358397/151033793-9f859eb2-afaf-47da-
 ### Game: Mini Golf (<img align="center" title="JavaScript" alt="JavaScript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">Javascript)
     
   - GitHub Repo:  [link](https://github.com/thiagolages/mini-golf-js)
+  - Game website: [link](https://thiagolages.github.io/mini-golf-js/)
+  
+  <div>
+    <a href="https://thiagolages.github.io/mini-golf-js/">
+      <img src="https://user-images.githubusercontent.com/22358397/151987390-8d4811c8-b35f-4266-ab1a-75f7d170f4af.png" alt="mini-golf-game" width="300"/>
+    </a>
+  </div>
+ 
   
 ### Photogrammetry Scanner (✒️3D Printing/🛠️Development of the hardware)
   
@@ -291,7 +307,7 @@ https://user-images.githubusercontent.com/22358397/151033793-9f859eb2-afaf-47da-
   
 [![Watch the video](https://github.com/thiagolages/photogrammetry-scanner/blob/master/black-panther.gif)](https://www.youtube.com/watch?v=YgXV4LTF02c)
 
-### Augmented Reality
+### Augmented Reality (under construction)
   
 - GitHub Repo:  [link](https://github.com/thiagolages/teste-ARjs)
 
@@ -301,7 +317,7 @@ https://user-images.githubusercontent.com/22358397/151033793-9f859eb2-afaf-47da-
   
   - GitHub Repo:  [link](https://github.com/thiagolages/tensorflow_c)
 
-### Suppress image reflection using Python
+### Suppress image reflection (Python)
 
 - GitHub Repo:  [link](https://github.com/thiagolages/reflectSuppress-python)
   
@@ -312,12 +328,3 @@ https://user-images.githubusercontent.com/22358397/151033793-9f859eb2-afaf-47da-
 ### Fuzzy Systems (MATLAB)
 
 - GitHub Repo:  [link](https://github.com/thiagolages/Fuzzy-Systems)
-  
-  
-<!-- https://github.com/thiagolages/rubbish-collector
-
-https://github.com/thiagolages/mini-golf-js
-
-https://github.com/thiagolages/forwardbot
-
- -->

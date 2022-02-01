@@ -104,12 +104,24 @@
   
 </div>
 
+# 📝 Paper Publications
+  
+  ### 🤖Robotics
+  - #### **[Journal of Control, Automation and Electrical Systems (JCAE 2021)](https://link.springer.com/article/10.1007/s40313-021-00828-4) (English)**: Autonomous Navigation System for a Delivery Drone
+  - #### **[Brazilian Conference of Automatics (CBA 2020)](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1701) (Portuguese)**: "Development of an autonomous drone for cargo delivery tasks"
+  - #### **[Latin American Robotics Symposium (LARS 2020)](https://ieeexplore.ieee.org/document/9307018) (English)**: Investigation of Visual Reconstruction Techniques Using Mobile Robots in Confined Environments
+  
+  ### 📸Computer Vision
+  
+  - #### **[IEEE International Conference on Image Processing (ICIP 2018)](https://ieeexplore.ieee.org/document/8451356) (English)**: Visual-Quality-Driven Learning for Underwater Vision Enhancement
+  
+  
 # <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> Projects
-
+  
 
 ### [🚁Robotics - Drones] Development of an Autonomous Delivery Drone
 
-  - #### **[Paper published at Journal   JCAE (2021)](https://link.springer.com/article/10.1007/s40313-021-00828-4) (English)**
+  - #### **[Paper published at Journal JCAE (2021)](https://link.springer.com/article/10.1007/s40313-021-00828-4) (English)**
   - #### **[Paper published at Conference CBA (2020)](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1701) (Portuguese)**
 
 <!-- Again, the following doesn't work in Markdown, so it's commented out   -->  
@@ -313,13 +325,19 @@ https://user-images.githubusercontent.com/22358397/151033793-9f859eb2-afaf-47da-
 
 ## [🔩Miscellaneous]
   
-### Load Tensorflow models trained in Keras/Python using C
-  
-  - GitHub Repo:  [link](https://github.com/thiagolages/tensorflow_c)
-
 ### Suppress image reflection (Python)
 
 - GitHub Repo:  [link](https://github.com/thiagolages/reflectSuppress-python)
+  <div>
+    <a href="https://github.com/thiagolages/reflectSuppress-python">
+      <img src="https://user-images.githubusercontent.com/22358397/151999726-b13f2ed0-7bfe-453d-9717-1ac30239cb8e.png" title="reflect-suppress" alt="reflect-suppress" width="300"/>
+      <img src="https://user-images.githubusercontent.com/22358397/151999684-8b4359b5-2b5a-4972-9fae-2c0cad4413ef.png" title="reflect-suppress" alt="reflect-suppress" width="300"/>
+    </a>
+  </div>
+
+### Load Tensorflow models trained in Keras/Python using C
+  
+  - GitHub Repo:  [link](https://github.com/thiagolages/tensorflow_c)
   
 ### Intro to Databases (SQL, Python)
   

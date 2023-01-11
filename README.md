@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Thiago Lages ! 
 
-- 🔭 I’m currently working with Computer Vision/Machine Learning/Robotics
-- 🌱 I’m currently learning JavaScript with HTML/CSS
+- 🔭 I’m currently working with Robotics (Autonomous Drones) @Speedbird.Aero
+- 💚 I love working with Computer Vision/Machine Learning/Robotics
+- 📚 I’m currently learning JavaScript with HTML/CSS
 - 📫 How to reach me: via [email](thiagolagesrocha@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thiago-lages/) (links also below)
 - 😄 Pronouns: he/him
 

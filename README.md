@@ -35,6 +35,7 @@
         <h4>Currently working</h4>
         <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" title="Python" alt="Python"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" title="C" alt="C"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
         <img align="center" title="C++" alt="C++"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
         <img align="center" title="Lua" alt="Lua"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
     </div>
@@ -46,7 +47,6 @@
     </div>
     <div>
         <h4>Experience with</h4>
-        <img align="center" title="C" alt="C"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
         <img align="center" title="MATLAB" alt="MATLAB"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
         <img align="center" title="Arduino" alt="Arduino"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
         <img align="center" title="Processing" alt="Processing"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">

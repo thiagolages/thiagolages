@@ -58,8 +58,8 @@
 
 ## Contact & Presentations
 <div> 
-  <a href="https://www.linkedin.com/in/thiago-lages/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiagolagesrocha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-lages/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCAUeFXeA5834eJlX-ilY8Vg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://app.rocketseat.com.br/me/thiagolages"><img width="110" height="auto" src="https://user-images.githubusercontent.com/22358397/151171836-74f61bcd-58bf-4152-b5b1-25e60cd27383.png"></a>
 

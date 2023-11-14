@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Robotics (Autonomous Drones) @Speedbird.Aero
 - 💚 I love working with Robotics/Computer Vision/Machine Learning
-- 💻 I’m currently working with C++/Python for Computer Vision and NodeJS for client-side 
+- 💻 I’m currently working with C++/Python for Computer Vision and NodeJS for client-side software
 - 📫 How to reach me: via [email](thiagolagesrocha@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thiago-lages/) (links also below)
 - 😄 Pronouns: he/him
 

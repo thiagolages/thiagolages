@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Thiago Lages ! 
 
-- 🔭 I’m currently working with Computer Vision & Robotics (Autonomous Drones) @Speedbird.Aero
+- 🔭 I’m currently working with 🦾Robotics Manipulators (Kitchen Automation) @ 🍟Miso Robotics, Pasadena, California
+  - 💻 Python/C++ with NVIDIA's Omniverse platform (Isaac Sim, curobo Motion Planning Library)
+- 🚀 Previously worked with Computer Vision & Robotics (Autonomous Drones) @Speedbird.Aero
+  - 💻 C++/Python for Computer Vision and NodeJS for client-side software
 - 💚 I love working with Robotics/Computer Vision/Machine Learning
-- 💻 I’m currently working with C++/Python for Computer Vision and NodeJS for client-side software
 - 📫 How to reach me: via [email](thiagolagesrocha@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thiago-lages/) (links also below)
 - 😄 Pronouns: he/him
 
@@ -26,15 +28,21 @@
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
  
- ## 📋Languages
+ ## 📋Languages/Software
  
  <!--  The following works in HTML but not in Markdown so it's commented out  -->
   
    <div style="display:flex">
-    <div>
+      <div>
         <h4>Currently working</h4>
+        <img align="center" title="Python"      alt="Python"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" title="NVIDIA"      alt="NVIDIA"    height="30" width="50" src="https://github.com/user-attachments/assets/b585912b-9d0a-4dcd-9a2c-61f7f9194758">
+        <img align="center" title="Omniverse"   alt="Omniverse" height="30" width="30" src="https://github.com/user-attachments/assets/3498fb92-e8b6-4aca-8170-f61d3470760b">
+        <img align="center" title="C++"         alt="C++"       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    </div>
+    <div>
+        <h4>Previously worked with</h4>
         <img align="center" title="C"           alt="C"         height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-        <img align="center" title="C++"         alt="C++"       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">  
         <img align="center" title="Python"      alt="Python"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" title="JavaScript"  alt="JavaScript"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" title="Lua"         alt="Lua"       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
